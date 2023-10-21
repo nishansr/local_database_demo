@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818500802753",
+    "project_id": "serious-a8b70",
+    "storage_bucket": "serious-a8b70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818500802753:android:e1e3c3728fffd34648dc40",
+        "android_client_info": {
+          "package_name": "com.example.serious"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7e19etA0iX8h7r3rgnJh3af8UJTqRYuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
